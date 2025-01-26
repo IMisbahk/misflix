@@ -1,1 +1,1 @@
-import './movie.css'
+import './css/movie.css'
