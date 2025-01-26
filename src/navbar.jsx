@@ -9,6 +9,7 @@ export default function Navbar() {
                 <ul>
                     <li>search</li>
                     <li>favourites</li>
+                    <li>contribute</li>
                 </ul>
             </nav>
         </div>
