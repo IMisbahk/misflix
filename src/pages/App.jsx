@@ -1,5 +1,6 @@
-import './css/App.css'
-import Navbar from './components/navbar.jsx'
+import "../styles/App.css"
+import Navbar from '../components/Navbar'
+import MovieCard from '../components/moviecard' 
 
 export default function App() {
 
